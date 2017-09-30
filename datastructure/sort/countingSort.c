@@ -10,7 +10,7 @@
 
 #include <malloc.h>
 #include <mem.h>
-#include "testSwitch.h"
+#include "../testSwitch.h"
 #include "stdio.h"
 
 

@@ -2,7 +2,7 @@
 // Created by lab211 on 2017/9/16.
 //
 #include "stdio.h"
-#include "testSwitch.h"
+#include "../testSwitch.h"
 #define BASE 10
 //基数排序
 

@@ -3,7 +3,7 @@
 //
 #include <mem.h>
 #include <stdio.h>
-#include "testSwitch.h"
+#include "../testSwitch.h"
 
 #define MAXNUM 100
 //桶排序

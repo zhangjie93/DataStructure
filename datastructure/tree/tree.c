@@ -5,9 +5,9 @@
 //二叉查找树
 
 #include "tree.h"
-#include "testSwitch.h"
+#include "../testSwitch.h"
 #include <stdlib.h>
-#include "fatal.h"
+#include "../fatal.h"
 
 struct TreeNode
 {

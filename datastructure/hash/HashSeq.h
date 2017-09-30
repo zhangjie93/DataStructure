@@ -1,0 +1,8 @@
+//
+// Created by lab211 on 2017/9/30.
+//
+
+#ifndef DATASTRUCTURE_HASHSEQ_H
+#define DATASTRUCTURE_HASHSEQ_H
+
+#endif //DATASTRUCTURE_HASHSEQ_H
