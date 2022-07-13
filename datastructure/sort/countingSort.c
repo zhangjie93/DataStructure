@@ -9,7 +9,8 @@
 //的位置，如知道在一个数组中有3个数是比a小，那么在排序后的数组里，必然在出现在第4位
 
 #include <malloc.h>
-#include <mem.h>
+#include <string.h>
+
 #include "../testSwitch.h"
 #include "stdio.h"
 

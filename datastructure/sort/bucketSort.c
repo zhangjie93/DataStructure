@@ -1,8 +1,9 @@
 //
 // Created by lab211 on 2017/9/16.
 //
-#include <mem.h>
+
 #include <stdio.h>
+#include <string.h>
 #include "../testSwitch.h"
 
 #define MAXNUM 100
